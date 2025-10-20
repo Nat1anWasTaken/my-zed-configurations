@@ -7,6 +7,17 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "use_system_path_prompts": true,
+  "diagnostics": {
+    "lsp_pull_diagnostics": {
+      "debounce_ms": 49
+    },
+    "inline": {
+      "update_debounce_ms": 150,
+      "padding": 4,
+      "enabled": true
+    }
+  },
   "agent": {
     "default_profile": "write",
     "default_model": {
