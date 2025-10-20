@@ -1,3 +1,6 @@
-# Files that doesn't need to be synced
+# Files that don't need to be synced
 prompts/
 conversations/
+
+# macOS Finder metadata
+.DS_Store
