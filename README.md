@@ -1,4 +1,4 @@
-# Zed Configuration
+# My Zed Configuration
 
 ## Overview
 - This folder is your Zed editor config: `~/.config/zed`.
